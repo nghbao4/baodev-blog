@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/Baodev.Core/Baodev.Core.csproj" />
+  <Project Path="src/Baodev.Data/Baodev.Data.csproj" />
+  <Project Path="src/Baodev.WebApp/Baodev.WebApp.csproj" />
+</Solution>
