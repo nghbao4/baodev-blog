@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="src/Baodev.Api/Baodev.Api.csproj" Id="64514bdc-5b15-4a43-89fc-cfa23f1229e4" />
   <Project Path="src/Baodev.Core/Baodev.Core.csproj" />
   <Project Path="src/Baodev.Data/Baodev.Data.csproj" />
   <Project Path="src/Baodev.WebApp/Baodev.WebApp.csproj" />
