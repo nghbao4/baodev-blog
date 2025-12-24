@@ -10,4 +10,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Baodev.Core\Baodev.Core.csproj" />
+    <ProjectReference Include="..\Baodev.Data\Baodev.Data.csproj" />
+  </ItemGroup>
+
 </Project>
